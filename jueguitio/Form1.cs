@@ -21,6 +21,7 @@ namespace jueguitio
         int a;
         int b;
         int c;
+        int test;
         Thread hilo1 = null;
         Thread hilo2 = null;
         Thread hilo3 = null;
