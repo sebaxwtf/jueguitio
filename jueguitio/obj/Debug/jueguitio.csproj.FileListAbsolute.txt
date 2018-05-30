@@ -1,0 +1,19 @@
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\bin\Debug\jueguitio.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\bin\Debug\jueguitio.exe
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\bin\Debug\jueguitio.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\obj\Debug\jueguitio.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\obj\Debug\jueguitio.Form1.resources
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\obj\Debug\jueguitio.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\obj\Debug\jueguitio.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\obj\Debug\jueguitio.exe
+c:\users\administrador\documents\visual studio 2015\Projects\jueguitio\jueguitio\obj\Debug\jueguitio.pdb
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\obj\Debug\jueguitio.csprojAssemblyReference.cache
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\obj\Debug\jueguitio.Form1.resources
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\obj\Debug\jueguitio.Properties.Resources.resources
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\obj\Debug\jueguitio.csproj.GenerateResource.cache
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\obj\Debug\jueguitio.csproj.CoreCompileInputs.cache
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\obj\Debug\jueguitio.exe
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\obj\Debug\jueguitio.pdb
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\bin\Debug\jueguitio.exe.config
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\bin\Debug\jueguitio.exe
+C:\Users\sebaxwtf\Desktop\jueguitio\jueguitio\bin\Debug\jueguitio.pdb
